@@ -1,4 +1,7 @@
- Project Name: Management Student System
+Run with npm start
+ 
+ 
+Project Name: Management Student System
 Project Description : his project enables the admin can register and log in to this system to add, edit, delete, and search the student list in the system. The project was built with the React framework Java SpringBoot, Spring Security, and MongoDB.
 
 ![Screenshot 2024-03-03 094312](https://github.com/ChunLoon/Students_Management_System_frontend/assets/104199648/cffc196d-8cbf-4798-97e6-dfd38c12dea4)
